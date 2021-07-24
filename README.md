@@ -1,10 +1,7 @@
-**Hi there** 👋
+**Hey there, I'm Rodrigo** 👋
 
-<!--
-**RojerGS/RojerGS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
--->
+## A little bit about myself
 
 - 🔭 I’m currently working on my personal project: [mathspp.com](https://mathspp.com)
 - 💬 Ask me about mathematics, programming and bad jokes.
@@ -12,7 +9,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: he/him/his
 
 
-## Recent articles
+## 📖 My most recent articles
 
 <!-- BLOG-POST-LIST:START -->
 - [Code style matters | Pydon't](https://mathspp.com/blog/pydonts/code-style-matters)
@@ -22,5 +19,7 @@ Here are some ideas to get you started:
 - [__name__ dunder attribute | Pydon't](https://mathspp.com/blog/pydonts/name-dunder-attribute)
 <!-- BLOG-POST-LIST:END -->
 
+<br />
+<br />
 
 ![](https://github-readme-stats.vercel.app/api?username=RojerGS&hide=stars&count_private=true&show_icons=true)

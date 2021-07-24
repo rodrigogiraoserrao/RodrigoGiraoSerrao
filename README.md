@@ -1,6 +1,6 @@
 **Hey there, I'm Rodrigo** 👋
 
-Follow me on Twitter [@mathsppblog][twitter] for 
+Follow me on Twitter [@mathsppblog][twitter] for 🐍 Python, 🧠 maths, and 💻 programming content.
 
 
 ## A little bit about myself
@@ -23,8 +23,6 @@ Follow me on Twitter [@mathsppblog][twitter] for
  - [Usages of underscore | Pydon't](https://mathspp.com/blog/pydonts/usages-of-underscore)
 <!-- BLOG-POST-LIST:END -->
 
-<br />
-<br />
 
 ##  My GitHub activity stats
 

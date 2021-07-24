@@ -13,4 +13,5 @@ jobs:
         with:
           feed_list: "https://mathspp.com/blog.rss"
           max_post_count: 7
-          template: " - [$title]($url) ($date)$newline$newline > $description"
+          template: " - [$title]($url) (published $date)$newline$newline$description"
+          description_max_length: 150

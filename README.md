@@ -14,13 +14,13 @@ Follow me on Twitter [@mathsppblog][twitter] for 🐍 Python, 🧠 maths, and �
 ## 📖 My most recent articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Boost your productivity with the REPL | Pydon't](https://mathspp.com/blog/pydonts/boost-your-productivity-with-the-repl)
 - [Problem #043 – Rubik's cube scrambling](https://mathspp.com/blog/problems/rubiks-cube-scrambling)
 - [String translate and maketrans methods | Pydon't](https://mathspp.com/blog/pydonts/string-translate-and-maketrans-methods)
 - [Naming matters | Pydon't](https://mathspp.com/blog/pydonts/naming-matters)
 - [Problem #042 – mine captcha](https://mathspp.com/blog/problems/mine-captcha)
 - [Neural networks fundamentals with Python – teacher-student](https://mathspp.com/blog/neural-networks-fundamentals-with-python-better-performance)
 - [Problem #041 – canyon crossing](https://mathspp.com/blog/problems/canyon-crossing)
-- [Code style matters | Pydon't](https://mathspp.com/blog/pydonts/code-style-matters)
 <!-- BLOG-POST-LIST:END -->
 
 

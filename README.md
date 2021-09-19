@@ -15,12 +15,12 @@ Follow me on Twitter [@mathsppblog][twitter] for 🐍 Python, 🧠 maths, and �
 
 <!-- BLOG-POST-LIST:START -->
 - [Problem #045 – 1, 2, 3](https://mathspp.com/blog/problems/1-2-3)
+- [TIL #003 – ICPO rule for attribute lookup](https://mathspp.com/blog/til/003)
 - [TIL #002 – fake chess AI](https://mathspp.com/blog/til/002)
 - [TIL #001 – ceiling division in Python](https://mathspp.com/blog/til/001)
 - [set and frozenset | Pydon't](https://mathspp.com/blog/pydonts/set-and-frozenset)
 - [Problem #044 – send more money](https://mathspp.com/blog/problems/send-more-money)
 - [Boost your productivity with the REPL | Pydon't](https://mathspp.com/blog/pydonts/boost-your-productivity-with-the-repl)
-- [Problem #043 – Rubik's cube scrambling](https://mathspp.com/blog/problems/rubiks-cube-scrambling)
 <!-- BLOG-POST-LIST:END -->
 
 

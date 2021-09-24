@@ -15,12 +15,12 @@ Follow me on Twitter [@mathsppblog][twitter] for 🐍 Python, 🧠 maths, and �
 
 <!-- BLOG-POST-LIST:START -->
 - [TIL #005 – string unpacking](https://mathspp.com/blog/til/005)
+- [List comprehensions 101 | Pydon't](https://mathspp.com/blog/pydonts/list-comprehensions-101)
 - [TIL #004 – C3 linearisation](https://mathspp.com/blog/til/004)
-- [Problem #045 – 1, 2, 3](https://mathspp.com/blog/problems/1-2-3)
 - [TIL #003 – ICPO rule for attribute lookup](https://mathspp.com/blog/til/003)
+- [Problem #045 – 1, 2, 3](https://mathspp.com/blog/problems/1-2-3)
 - [TIL #002 – fake chess AI](https://mathspp.com/blog/til/002)
 - [TIL #001 – ceiling division in Python](https://mathspp.com/blog/til/001)
-- [set and frozenset | Pydon't](https://mathspp.com/blog/pydonts/set-and-frozenset)
 <!-- BLOG-POST-LIST:END -->
 
 

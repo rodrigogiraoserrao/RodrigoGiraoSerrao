@@ -14,13 +14,13 @@ Follow me on Twitter [@mathsppblog][twitter] for 🐍 Python, 🧠 maths, and �
 ## 📖 My most recent articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Problem #046 – triangle grid](https://mathspp.com/blog/problems/triangle-grid)
 - [TIL #008 – two pass join](https://mathspp.com/blog/til/008)
 - [TIL #007 – math.nextafter](https://mathspp.com/blog/til/007)
 - [Conditional expressions | Pydon't 🐍](https://mathspp.com/blog/pydonts/conditional-expressions)
 - [TIL #006 – file unpacking](https://mathspp.com/blog/til/006)
 - [List comprehensions 101 | Pydon't 🐍](https://mathspp.com/blog/pydonts/list-comprehensions-101)
 - [TIL #005 – string unpacking](https://mathspp.com/blog/til/005)
-- [TIL #004 – C3 linearisation](https://mathspp.com/blog/til/004)
 <!-- BLOG-POST-LIST:END -->
 
 

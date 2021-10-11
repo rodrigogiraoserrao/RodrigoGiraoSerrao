@@ -14,13 +14,13 @@ Follow me on Twitter [@mathsppblog][twitter] for 🐍 Python, 🧠 maths, and �
 ## 📖 My most recent articles
 
 <!-- BLOG-POST-LIST:START -->
+- [TIL #011 – emojis in Python with pythonji](https://mathspp.com/blog/til/011)
 - [TIL #010 – generator return](https://mathspp.com/blog/til/010)
 - [TIL #009 – vars](https://mathspp.com/blog/til/009)
 - [Problem #046 – triangle grid](https://mathspp.com/blog/problems/triangle-grid)
 - [TIL #008 – two pass join](https://mathspp.com/blog/til/008)
 - [TIL #007 – math.nextafter](https://mathspp.com/blog/til/007)
 - [Conditional expressions | Pydon't 🐍](https://mathspp.com/blog/pydonts/conditional-expressions)
-- [TIL #006 – file unpacking](https://mathspp.com/blog/til/006)
 <!-- BLOG-POST-LIST:END -->
 
 

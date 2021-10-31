@@ -14,13 +14,13 @@ Follow me on Twitter [@mathsppblog][twitter] for 🐍 Python, 🧠 maths, and �
 ## 📖 My most recent articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Problem #048 – trick or treat](https://mathspp.com/blog/problems/trick-or-treat)
 - [Problem #047 – surgery gloves](https://mathspp.com/blog/problems/surgery-gloves)
 - [TIL #012 – At operator for matrix multiplication](https://mathspp.com/blog/til/012)
 - [TIL #011 – emojis in Python with pythonji](https://mathspp.com/blog/til/011)
 - [TIL #010 – generator return](https://mathspp.com/blog/til/010)
 - [TIL #009 – vars](https://mathspp.com/blog/til/009)
 - [Problem #046 – triangle grid](https://mathspp.com/blog/problems/triangle-grid)
-- [TIL #008 – two pass join](https://mathspp.com/blog/til/008)
 <!-- BLOG-POST-LIST:END -->
 
 

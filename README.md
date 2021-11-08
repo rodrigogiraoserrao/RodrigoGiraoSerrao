@@ -14,7 +14,7 @@ Follow me on Twitter [@mathsppblog][twitter] for 🐍 Python, 🧠 maths, and �
 ## 📖 My most recent articles
 
 <!-- BLOG-POST-LIST:START -->
-- [Pass-by-value, reference, and assignment | Pydon't 🐍](https://mathspp.com/blog/pydonts/pass-by-value-reference-and-assignment)
+- [Pass-by-value, reference, and assignment | Pydon&#39;t 🐍](https://mathspp.com/blog/pydonts/pass-by-value-reference-and-assignment)
 - [TIL #013 – __eq__](https://mathspp.com/blog/til/013)
 - [Problem #048 – trick or treat](https://mathspp.com/blog/problems/trick-or-treat)
 - [Problem #047 – surgery gloves](https://mathspp.com/blog/problems/surgery-gloves)

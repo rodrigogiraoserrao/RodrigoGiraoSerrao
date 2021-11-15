@@ -14,13 +14,13 @@ Follow me on Twitter [@mathsppblog][twitter] for 🐍 Python, 🧠 maths, and �
 ## 📖 My most recent articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Counting mosaics with APL](https://mathspp.com/blog/counting-mosaics-with-apl)
 - [Problem #049 – coin pyramid](https://mathspp.com/blog/problems/coin-pyramid)
 - [TIL #014 – reading files with pathlib](https://mathspp.com/blog/til/014)
 - [Pass-by-value, reference, and assignment | Pydon&#39;t 🐍](https://mathspp.com/blog/pydonts/pass-by-value-reference-and-assignment)
 - [TIL #013 – __eq__](https://mathspp.com/blog/til/013)
 - [Problem #048 – trick or treat](https://mathspp.com/blog/problems/trick-or-treat)
 - [Problem #047 – surgery gloves](https://mathspp.com/blog/problems/surgery-gloves)
-- [TIL #012 – At operator for matrix multiplication](https://mathspp.com/blog/til/012)
 <!-- BLOG-POST-LIST:END -->
 
 

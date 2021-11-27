@@ -14,13 +14,13 @@ Follow me on Twitter [@mathsppblog][twitter] for 🐍 Python, 🧠 maths, and �
 ## 📖 My most recent articles
 
 <!-- BLOG-POST-LIST:START -->
+- [TIL #016 – Quicksort in functional programming](https://mathspp.com/blog/til/016)
 - [Minimax algorithm and alpha-beta pruning](https://mathspp.com/blog/minimax-algorithm-and-alpha-beta-pruning)
 - [String formatting comparison | Pydon&#39;t 🐍](https://mathspp.com/blog/pydonts/string-formatting-comparison)
 - [TIL #015 – DARPA network challenge](https://mathspp.com/blog/til/015)
 - [Counting mosaics with APL](https://mathspp.com/blog/counting-mosaics-with-apl)
 - [Problem #049 – coin pyramid](https://mathspp.com/blog/problems/coin-pyramid)
 - [TIL #014 – reading files with pathlib](https://mathspp.com/blog/til/014)
-- [Pass-by-value, reference, and assignment | Pydon&#39;t 🐍](https://mathspp.com/blog/pydonts/pass-by-value-reference-and-assignment)
 <!-- BLOG-POST-LIST:END -->
 
 

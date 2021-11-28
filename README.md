@@ -14,13 +14,13 @@ Follow me on Twitter [@mathsppblog][twitter] for 🐍 Python, 🧠 maths, and �
 ## 📖 My most recent articles
 
 <!-- BLOG-POST-LIST:START -->
+- [TIL #017 – symmetrical indexing with bitwise inversion](https://mathspp.com/blog/til/017)
 - [TIL #016 – Quicksort in functional programming](https://mathspp.com/blog/til/016)
 - [Minimax algorithm and alpha-beta pruning](https://mathspp.com/blog/minimax-algorithm-and-alpha-beta-pruning)
 - [String formatting comparison | Pydon&#39;t 🐍](https://mathspp.com/blog/pydonts/string-formatting-comparison)
 - [TIL #015 – DARPA network challenge](https://mathspp.com/blog/til/015)
 - [Counting mosaics with APL](https://mathspp.com/blog/counting-mosaics-with-apl)
 - [Problem #049 – coin pyramid](https://mathspp.com/blog/problems/coin-pyramid)
-- [TIL #014 – reading files with pathlib](https://mathspp.com/blog/til/014)
 <!-- BLOG-POST-LIST:END -->
 
 

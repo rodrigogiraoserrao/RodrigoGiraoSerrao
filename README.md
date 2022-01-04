@@ -14,12 +14,12 @@ Follow me on Twitter [@mathsppblog][twitter] for 🐍 Python, 🧠 maths, and �
 ## 📖 My most recent articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Solving Wordle with Python](https://mathspp.com/blog/solving-wordle-with-python)
 - [Problem #052 – chessboard domino](https://mathspp.com/blog/problems/chessboard-domino)
-- [TIL #018 – suppressing errors with contextlib](https://mathspp.com/blog/til/018)
 - [Problem #051 – queens and knights](https://mathspp.com/blog/problems/queens-and-knights)
+- [TIL #018 – suppressing errors with contextlib](https://mathspp.com/blog/til/018)
 - [Why mastering Python is impossible, and why that&#39;s ok | Pydon&#39;t 🐍](https://mathspp.com/blog/pydonts/why-mastering-python-is-impossible)
 - [Advent of Code: sonar sweep analysis](https://mathspp.com/blog/advent-of-code-sonar-sweep-analysis)
-- [TIL #017 – symmetrical indexing with bitwise inversion](https://mathspp.com/blog/til/017)
 - [Problem #050 – 8 queens](https://mathspp.com/blog/problems/8-queens)
 <!-- BLOG-POST-LIST:END -->
 

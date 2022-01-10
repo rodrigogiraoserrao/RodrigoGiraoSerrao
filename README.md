@@ -14,13 +14,13 @@ Follow me on Twitter [@mathsppblog][twitter] for 🐍 Python, 🧠 maths, and �
 ## 📖 My most recent articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Problem #053 – weighing the odd one out](https://mathspp.com/blog/problems/weighing-the-odd-one-out)
 - [TIL #020 – open&lpar;0&rpar;](https://mathspp.com/blog/til/020)
 - [TIL #019 – sockets](https://mathspp.com/blog/til/019)
 - [Solving Wordle with Python](https://mathspp.com/blog/solving-wordle-with-python)
 - [Problem #052 – chessboard domino](https://mathspp.com/blog/problems/chessboard-domino)
-- [Problem #051 – queens and knights](https://mathspp.com/blog/problems/queens-and-knights)
 - [TIL #018 – suppressing errors with contextlib](https://mathspp.com/blog/til/018)
-- [Why mastering Python is impossible, and why that&#39;s ok | Pydon&#39;t 🐍](https://mathspp.com/blog/pydonts/why-mastering-python-is-impossible)
+- [Problem #051 – queens and knights](https://mathspp.com/blog/problems/queens-and-knights)
 <!-- BLOG-POST-LIST:END -->
 
 

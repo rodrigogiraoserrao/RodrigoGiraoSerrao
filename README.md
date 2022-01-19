@@ -14,13 +14,13 @@ Follow me on Twitter [@mathsppblog][twitter] for 🐍 Python, 🧠 maths, and �
 ## 📖 My most recent articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Chatroom server tutorial](https://mathspp.com/blog/chatroom-server-tutorial)
 - [TIL #023 – how to use namedtuple](https://mathspp.com/blog/til/023)
 - [TIL #022 – Python module selectors](https://mathspp.com/blog/til/022)
 - [Sockets for dummies](https://mathspp.com/blog/sockets-for-dummies)
 - [TIL #021 – Spouge&#39;s formula](https://mathspp.com/blog/til/021)
 - [Problem #053 – weighing the odd one out](https://mathspp.com/blog/problems/weighing-the-odd-one-out)
 - [TIL #020 – open&lpar;0&rpar;](https://mathspp.com/blog/til/020)
-- [TIL #019 – sockets](https://mathspp.com/blog/til/019)
 <!-- BLOG-POST-LIST:END -->
 
 

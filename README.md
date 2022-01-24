@@ -14,13 +14,13 @@ Follow me on Twitter [@mathsppblog][twitter] for 🐍 Python, 🧠 maths, and �
 ## 📖 My most recent articles
 
 <!-- BLOG-POST-LIST:START -->
+- [TIL #026 – web apps with streamlit](https://mathspp.com/blog/til/026)
 - [Problem #054 – imperfect compression](https://mathspp.com/blog/problems/imperfect-compression)
 - [TIL #025 – reversed emoji flags](https://mathspp.com/blog/til/025)
 - [TIL #024 – cooking with asyncio](https://mathspp.com/blog/til/024)
 - [Chatroom server tutorial](https://mathspp.com/blog/chatroom-server-tutorial)
 - [TIL #023 – how to use namedtuple](https://mathspp.com/blog/til/023)
 - [TIL #022 – Python module selectors](https://mathspp.com/blog/til/022)
-- [Sockets for dummies](https://mathspp.com/blog/sockets-for-dummies)
 <!-- BLOG-POST-LIST:END -->
 
 

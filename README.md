@@ -14,7 +14,7 @@ Follow me on Twitter [@mathsppblog][twitter] for 🐍 Python, 🧠 maths, and �
 ## 📖 My most recent articles
 
 <!-- BLOG-POST-LIST:START -->
-- [ELO rating system simulation](https://mathspp.com/blog/elo-rating-system-simulation)
+- [Elo rating system simulation](https://mathspp.com/blog/elo-rating-system-simulation)
 - [TIL #026 – web apps with streamlit](https://mathspp.com/blog/til/026)
 - [Problem #054 – imperfect compression](https://mathspp.com/blog/problems/imperfect-compression)
 - [TIL #025 – reversed emoji flags](https://mathspp.com/blog/til/025)

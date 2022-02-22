@@ -14,13 +14,13 @@ Follow me on Twitter [@mathsppblog][twitter] for 🐍 Python, 🧠 maths, and �
 ## 📖 My most recent articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Enumerate from first principles](https://mathspp.com/blog/enumerate-from-first-principles)
 - [Problem #056 – tennis tournament](https://mathspp.com/blog/problems/tennis-tournament)
 - [TIL #032 – t-SNE for dimensionality reduction](https://mathspp.com/blog/til/032)
 - [TIL #031 – understanding SVG viewBox](https://mathspp.com/blog/til/031)
 - [TIL #030 – Simpson&#39;s paradox](https://mathspp.com/blog/til/030)
 - [TIL #029 – True is equal to 1](https://mathspp.com/blog/til/029)
 - [Problem #055 – horse racing](https://mathspp.com/blog/problems/horse-racing)
-- [50 shades of sign](https://mathspp.com/blog/50-shades-of-sign)
 <!-- BLOG-POST-LIST:END -->
 
 

@@ -14,13 +14,13 @@ Follow me on Twitter [@mathsppblog][twitter] for 🐍 Python, 🧠 maths, and �
 ## 📖 My most recent articles
 
 <!-- BLOG-POST-LIST:START -->
-- [TIL #033 – transposed convolution](https://mathspp.com/blog/til/033)
+- [TIL #034 – multi-channel transposed convolution](https://mathspp.com/blog/til/034)
 - [Enumerate from first principles](https://mathspp.com/blog/enumerate-from-first-principles)
+- [TIL #033 – transposed convolution](https://mathspp.com/blog/til/033)
 - [Problem #056 – tennis tournament](https://mathspp.com/blog/problems/tennis-tournament)
 - [TIL #032 – t-SNE for dimensionality reduction](https://mathspp.com/blog/til/032)
 - [TIL #031 – understanding SVG viewBox](https://mathspp.com/blog/til/031)
 - [TIL #030 – Simpson&#39;s paradox](https://mathspp.com/blog/til/030)
-- [TIL #029 – True is equal to 1](https://mathspp.com/blog/til/029)
 <!-- BLOG-POST-LIST:END -->
 
 

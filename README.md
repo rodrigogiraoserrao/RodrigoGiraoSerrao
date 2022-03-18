@@ -15,7 +15,7 @@ Follow me on Twitter [@mathsppblog][twitter] for 🐍 Python, 🧠 maths, and �
 
 <!-- BLOG-POST-LIST:START -->
 - [TIL #039 – how to install starship](https://mathspp.com/blog/til/039)
-- [TIL #038 – look-and-say sequence](https://mathspp.com/blog/til/038)
+- [TIL #038 – look-and-say sequence growth](https://mathspp.com/blog/til/038)
 - [TIL #037 – pandas Series](https://mathspp.com/blog/til/037)
 - [Problem #057 – how to find the circle centre](https://mathspp.com/blog/problems/how-to-find-the-circle-centre)
 - [TIL #036 – pandas show_versions](https://mathspp.com/blog/til/036)

@@ -14,13 +14,13 @@ Follow me on Twitter [@mathsppblog][twitter] for 🐍 Python, 🧠 maths, and �
 ## 📖 My most recent articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Problem #058 – identifying light bulbs](https://mathspp.com/blog/problems/identifying-light-bulbs)
 - [Solving Wordle with APL](https://mathspp.com/blog/solving-wordle-with-apl)
 - [Why APL is a language worth knowing](https://mathspp.com/blog/why-apl-is-a-language-worth-knowing)
 - [Look-and-say sequence](https://mathspp.com/blog/look-and-say-sequence)
 - [TIL #039 – how to install starship](https://mathspp.com/blog/til/039)
 - [TIL #038 – look-and-say sequence growth](https://mathspp.com/blog/til/038)
 - [TIL #037 – pandas Series](https://mathspp.com/blog/til/037)
-- [Problem #057 – how to find the circle centre](https://mathspp.com/blog/problems/how-to-find-the-circle-centre)
 <!-- BLOG-POST-LIST:END -->
 
 

@@ -24,6 +24,12 @@ Follow me on Twitter [@mathsppblog][twitter] for 🐍 Python, 🧠 maths, and �
 <!-- BLOG-POST-LIST:END -->
 
 
+## 🐦📝 Recent Twitter threads
+
+<!-- TWITTER-THREAD-LIST:START -->
+<!-- TWITTER-THREAD-LIST:END -->
+
+
 ##  My GitHub activity stats
 
 ![](https://github-readme-stats.vercel.app/api?username=RodrigoGiraoSerrao&hide=stars&count_private=true&show_icons=true)

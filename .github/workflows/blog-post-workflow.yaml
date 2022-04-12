@@ -22,3 +22,4 @@ jobs:
         with:
           feed_list: "https://mathspp.com/blog/twitter-threads.rss"
           max_post_count: 10
+          comment_tag_name: "TWITTER-THREAD-LIST"

@@ -13,3 +13,12 @@ jobs:
         with:
           feed_list: "https://mathspp.com/blog.rss"
           max_post_count: 7
+  update-readme-with-threads:
+    name: "Update this repo's README with latest Twitter threads"
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          feed_list: "https://mathspp.com/blog/twitter-threads.rss"
+          max_post_count: 10

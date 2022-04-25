@@ -27,6 +27,7 @@ Follow me on Twitter [@mathsppblog][twitter] for 🐍 Python, 🧠 maths, and �
 ## 🐦📝 Recent Twitter threads
 
 <!-- TWITTER-THREAD-LIST:START -->
+- [Why use isinstance instead of type?](https://mathspp.com/blog/twitter-threads/why-use-isinstance-instead-of-type)
 - [How are strings ordered in Python?](https://mathspp.com/blog/twitter-threads/how-are-strings-ordered-in-python)
 - [Function composition through operator overload](https://mathspp.com/blog/twitter-threads/function-composition-through-operator-overload)
 - [Appending to a list used in a for loop](https://mathspp.com/blog/twitter-threads/appending-to-a-list-used-in-a-for-loop)
@@ -36,7 +37,6 @@ Follow me on Twitter [@mathsppblog][twitter] for 🐍 Python, 🧠 maths, and �
 - [Datetime objects and f-strings](https://mathspp.com/blog/twitter-threads/datetime-objects-and-f-strings)
 - [Explicit is better than implicit](https://mathspp.com/blog/twitter-threads/explicit-is-better-than-implicit)
 - [Beautiful is better than ugly](https://mathspp.com/blog/twitter-threads/beautiful-is-better-than-ugly)
-- [PyCon Sri Lanka 2022 talk links](https://mathspp.com/blog/twitter-threads/pycon-sri-lanka-2022-talk-links)
 <!-- TWITTER-THREAD-LIST:END -->
 
 

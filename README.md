@@ -14,13 +14,13 @@ Follow me on Twitter [@mathsppblog][twitter] for 🐍 Python, 🧠 maths, and �
 ## 📖 My most recent articles
 
 <!-- BLOG-POST-LIST:START -->
+- [TIL #042 – how to do beautiful console logging](https://mathspp.com/blog/til/042)
 - [TIL #041 – how to commit part of a file with git](https://mathspp.com/blog/til/041)
 - [Contributing to open source: rich 2073](https://mathspp.com/blog/contributing-to-open-source-rich-2073)
 - [Problem #059 – marching pegs](https://mathspp.com/blog/problems/marching-pegs)
 - [TIL #040 – code syntax highlighting in Microsoft PowerPoint](https://mathspp.com/blog/til/040)
 - [Problem #058 – identifying light bulbs](https://mathspp.com/blog/problems/identifying-light-bulbs)
 - [Solving Wordle with APL](https://mathspp.com/blog/solving-wordle-with-apl)
-- [Why APL is a language worth knowing](https://mathspp.com/blog/why-apl-is-a-language-worth-knowing)
 <!-- BLOG-POST-LIST:END -->
 
 

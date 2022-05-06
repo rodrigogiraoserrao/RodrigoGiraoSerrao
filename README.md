@@ -27,6 +27,7 @@ Follow me on Twitter [@mathsppblog][twitter] for 🐍 Python, 🧠 maths, and �
 ## 🐦📝 Recent Twitter threads
 
 <!-- TWITTER-THREAD-LIST:START -->
+- [Finding a receipt recursively](https://mathspp.com/blog/twitter-threads/finding-a-receipt-recursively)
 - [Python is a big language](https://mathspp.com/blog/twitter-threads/python-is-a-big-language)
 - [Why use isinstance instead of type?](https://mathspp.com/blog/twitter-threads/why-use-isinstance-instead-of-type)
 - [How are strings ordered in Python?](https://mathspp.com/blog/twitter-threads/how-are-strings-ordered-in-python)
@@ -36,7 +37,6 @@ Follow me on Twitter [@mathsppblog][twitter] for 🐍 Python, 🧠 maths, and �
 - [Full slice [:]](https://mathspp.com/blog/twitter-threads/full-slice)
 - [Look-and-say sequence implementation](https://mathspp.com/blog/twitter-threads/look-and-say-sequence-implementation)
 - [Datetime objects and f-strings](https://mathspp.com/blog/twitter-threads/datetime-objects-and-f-strings)
-- [Explicit is better than implicit](https://mathspp.com/blog/twitter-threads/explicit-is-better-than-implicit)
 <!-- TWITTER-THREAD-LIST:END -->
 
 

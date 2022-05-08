@@ -14,13 +14,13 @@ Follow me on Twitter [@mathsppblog][twitter] for 🐍 Python, 🧠 maths, and �
 ## 📖 My most recent articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Problem #060 – realtor commissions](https://mathspp.com/blog/problems/realtor-commissions)
 - [TIL #045 – using JavaScript functions in PyScript](https://mathspp.com/blog/til/045)
 - [TIL #044 – PyScript](https://mathspp.com/blog/til/044)
 - [TIL #043 – rich traceback and exception logging](https://mathspp.com/blog/til/043)
 - [TIL #042 – how to do beautiful console logging](https://mathspp.com/blog/til/042)
 - [TIL #041 – how to commit part of a file with git](https://mathspp.com/blog/til/041)
 - [Contributing to open source: rich 2073](https://mathspp.com/blog/contributing-to-open-source-rich-2073)
-- [Problem #059 – marching pegs](https://mathspp.com/blog/problems/marching-pegs)
 <!-- BLOG-POST-LIST:END -->
 
 

@@ -14,13 +14,13 @@ Follow me on Twitter [@mathsppblog][twitter] for 🐍 Python, 🧠 maths, and �
 ## 📖 My most recent articles
 
 <!-- BLOG-POST-LIST:START -->
+- [TIL #046 – custom JSON encoding](https://mathspp.com/blog/til/046)
 - [Problem #061 – flower garden](https://mathspp.com/blog/problems/flower-garden)
 - [Problem #060 – realtor commissions](https://mathspp.com/blog/problems/realtor-commissions)
 - [TIL #045 – using JavaScript functions in PyScript](https://mathspp.com/blog/til/045)
 - [TIL #044 – PyScript](https://mathspp.com/blog/til/044)
 - [TIL #043 – rich traceback and exception logging](https://mathspp.com/blog/til/043)
 - [TIL #042 – how to do beautiful console logging](https://mathspp.com/blog/til/042)
-- [TIL #041 – how to commit part of a file with git](https://mathspp.com/blog/til/041)
 <!-- BLOG-POST-LIST:END -->
 
 

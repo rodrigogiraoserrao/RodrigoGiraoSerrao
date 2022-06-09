@@ -27,6 +27,7 @@ Follow me on Twitter [@mathsppblog][twitter] for 🐍 Python, 🧠 maths, and �
 ## 🐦📝 Recent Twitter threads
 
 <!-- TWITTER-THREAD-LIST:START -->
+- [How long should a list comprehension be?](https://mathspp.com/blog/twitter-threads/how-long-should-a-list-comprehension-be)
 - [Why are list comprehensions useful?](https://mathspp.com/blog/twitter-threads/why-are-list-comprehensions-useful)
 - [Finding a receipt recursively](https://mathspp.com/blog/twitter-threads/finding-a-receipt-recursively)
 - [Python is a big language](https://mathspp.com/blog/twitter-threads/python-is-a-big-language)
@@ -36,7 +37,6 @@ Follow me on Twitter [@mathsppblog][twitter] for 🐍 Python, 🧠 maths, and �
 - [Appending to a list used in a for loop](https://mathspp.com/blog/twitter-threads/appending-to-a-list-used-in-a-for-loop)
 - [Full slice of a string is irrelevant](https://mathspp.com/blog/twitter-threads/full-slice-of-a-string-is-irrelevant)
 - [Full slice [:]](https://mathspp.com/blog/twitter-threads/full-slice)
-- [Look-and-say sequence implementation](https://mathspp.com/blog/twitter-threads/look-and-say-sequence-implementation)
 <!-- TWITTER-THREAD-LIST:END -->
 
 

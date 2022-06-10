@@ -27,6 +27,7 @@ Follow me on Twitter [@mathsppblog][twitter] for 🐍 Python, 🧠 maths, and �
 ## 🐦📝 Recent Twitter threads
 
 <!-- TWITTER-THREAD-LIST:START -->
+- [Naming in list comprehensions](https://mathspp.com/blog/twitter-threads/naming-in-list-comprehensions)
 - [Formatting long list comprehensions](https://mathspp.com/blog/twitter-threads/formatting-long-list-comprehensions)
 - [How long should a list comprehension be?](https://mathspp.com/blog/twitter-threads/how-long-should-a-list-comprehension-be)
 - [Why are list comprehensions useful?](https://mathspp.com/blog/twitter-threads/why-are-list-comprehensions-useful)
@@ -36,7 +37,6 @@ Follow me on Twitter [@mathsppblog][twitter] for 🐍 Python, 🧠 maths, and �
 - [How are strings ordered in Python?](https://mathspp.com/blog/twitter-threads/how-are-strings-ordered-in-python)
 - [Function composition through operator overload](https://mathspp.com/blog/twitter-threads/function-composition-through-operator-overload)
 - [Appending to a list used in a for loop](https://mathspp.com/blog/twitter-threads/appending-to-a-list-used-in-a-for-loop)
-- [Full slice of a string is irrelevant](https://mathspp.com/blog/twitter-threads/full-slice-of-a-string-is-irrelevant)
 <!-- TWITTER-THREAD-LIST:END -->
 
 

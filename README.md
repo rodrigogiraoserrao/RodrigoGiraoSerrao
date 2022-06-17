@@ -15,8 +15,8 @@ Follow me on Twitter [@mathsppblog][twitter] for 🐍 Python, 🧠 maths, and �
 
 <!-- BLOG-POST-LIST:START -->
 - [Problem #062 – sliding coins](https://mathspp.com/blog/problems/sliding-coins)
-- [TIL #047 – custom JSON decoding](https://mathspp.com/blog/til/047)
-- [TIL #046 – custom JSON encoding](https://mathspp.com/blog/til/046)
+- [TIL #047 – custom JSON decoder](https://mathspp.com/blog/til/custom-json-decoder)
+- [TIL #046 – custom JSON encoder](https://mathspp.com/blog/til/custom-json-encoder)
 - [Problem #061 – flower garden](https://mathspp.com/blog/problems/flower-garden)
 - [Problem #060 – realtor commissions](https://mathspp.com/blog/problems/realtor-commissions)
 - [TIL #045 – using JavaScript functions in PyScript](https://mathspp.com/blog/til/045)

@@ -27,6 +27,7 @@ Follow me on Twitter [@mathsppblog][twitter] for 🐍 Python, 🧠 maths, and �
 ## 🐦📝 Recent Twitter threads
 
 <!-- TWITTER-THREAD-LIST:START -->
+- [List comprehensions in functional programming](https://mathspp.com/blog/twitter-threads/list-comprehensions-in-functional-programming)
 - [Naming in list comprehensions](https://mathspp.com/blog/twitter-threads/naming-in-list-comprehensions)
 - [Formatting long list comprehensions](https://mathspp.com/blog/twitter-threads/formatting-long-list-comprehensions)
 - [How long should a list comprehension be?](https://mathspp.com/blog/twitter-threads/how-long-should-a-list-comprehension-be)
@@ -36,7 +37,6 @@ Follow me on Twitter [@mathsppblog][twitter] for 🐍 Python, 🧠 maths, and �
 - [Why use isinstance instead of type?](https://mathspp.com/blog/twitter-threads/why-use-isinstance-instead-of-type)
 - [How are strings ordered in Python?](https://mathspp.com/blog/twitter-threads/how-are-strings-ordered-in-python)
 - [Function composition through operator overload](https://mathspp.com/blog/twitter-threads/function-composition-through-operator-overload)
-- [Appending to a list used in a for loop](https://mathspp.com/blog/twitter-threads/appending-to-a-list-used-in-a-for-loop)
 <!-- TWITTER-THREAD-LIST:END -->
 
 

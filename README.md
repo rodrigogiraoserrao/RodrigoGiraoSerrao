@@ -27,6 +27,7 @@ Follow me on Twitter [@mathsppblog][twitter] for 🐍 Python, 🧠 maths, and �
 ## 🐦📝 Recent Twitter threads
 
 <!-- TWITTER-THREAD-LIST:START -->
+- [Conditional expressions in list comprehensions](https://mathspp.com/blog/twitter-threads/conditional-expressions-in-list-comprehensions)
 - [Nested list comprehensions](https://mathspp.com/blog/twitter-threads/nested-list-comprehensions)
 - [List comprehensions in functional programming](https://mathspp.com/blog/twitter-threads/list-comprehensions-in-functional-programming)
 - [Naming in list comprehensions](https://mathspp.com/blog/twitter-threads/naming-in-list-comprehensions)
@@ -36,7 +37,6 @@ Follow me on Twitter [@mathsppblog][twitter] for 🐍 Python, 🧠 maths, and �
 - [Finding a receipt recursively](https://mathspp.com/blog/twitter-threads/finding-a-receipt-recursively)
 - [Python is a big language](https://mathspp.com/blog/twitter-threads/python-is-a-big-language)
 - [Why use isinstance instead of type?](https://mathspp.com/blog/twitter-threads/why-use-isinstance-instead-of-type)
-- [How are strings ordered in Python?](https://mathspp.com/blog/twitter-threads/how-are-strings-ordered-in-python)
 <!-- TWITTER-THREAD-LIST:END -->
 
 

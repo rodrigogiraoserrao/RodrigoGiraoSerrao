@@ -14,13 +14,13 @@ Follow me on Twitter [@mathsppblog][twitter] for 🐍 Python, 🧠 maths, and �
 ## 📖 My most recent articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Dunder methods | Pydon&#39;t 🐍](https://mathspp.com/blog/pydonts/dunder-methods)
 - [Custom JSON encoder and decoder](https://mathspp.com/blog/custom-json-encoder-and-decoder)
 - [TIL #048 – custom JSON decoder, part 2](https://mathspp.com/blog/til/custom-json-decoder-part-2)
 - [Problem #062 – sliding coins](https://mathspp.com/blog/problems/sliding-coins)
 - [TIL #047 – custom JSON decoder](https://mathspp.com/blog/til/custom-json-decoder)
 - [TIL #046 – custom JSON encoder](https://mathspp.com/blog/til/custom-json-encoder)
 - [Problem #061 – flower garden](https://mathspp.com/blog/problems/flower-garden)
-- [Problem #060 – realtor commissions](https://mathspp.com/blog/problems/realtor-commissions)
 <!-- BLOG-POST-LIST:END -->
 
 

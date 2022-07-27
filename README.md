@@ -14,13 +14,13 @@ Follow me on Twitter [@mathsppblog][twitter] for 🐍 Python, 🧠 maths, and �
 ## 📖 My most recent articles
 
 <!-- BLOG-POST-LIST:START -->
+- [How to create a Python package in 2022](https://mathspp.com/blog/how-to-create-a-python-package-in-2022)
 - [Smoosh all the things](https://mathspp.com/blog/smoosh-all-the-things)
 - [Obfuscated &quot;Hello, world!&quot;](https://mathspp.com/blog/obfuscated-hello-world)
 - [The most obscure &quot;Hello, world!&quot; program](https://mathspp.com/blog/the-most-obscure-hello-world-program)
 - [Object initialisation with __init__](https://mathspp.com/blog/object-initialisation-with-__init__)
 - [Dunder methods | Pydon&#39;t 🐍](https://mathspp.com/blog/pydonts/dunder-methods)
 - [Custom JSON encoder and decoder](https://mathspp.com/blog/custom-json-encoder-and-decoder)
-- [TIL #048 – custom JSON decoder, part 2](https://mathspp.com/blog/til/custom-json-decoder-part-2)
 <!-- BLOG-POST-LIST:END -->
 
 

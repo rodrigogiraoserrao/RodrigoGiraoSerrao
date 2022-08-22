@@ -27,6 +27,7 @@ Follow me on Twitter [@mathsppblog][twitter] for 🐍 Python, 🧠 maths, and �
 ## 🐦📝 Recent Twitter threads
 
 <!-- TWITTER-THREAD-LIST:START -->
+- [Deciphering David Beazley&#39;s monstrosity](https://mathspp.com/blog/twitter-threads/deciphering-david-beazleys-monstrosity)
 - [Chunking iterables](https://mathspp.com/blog/twitter-threads/chunking-iterables)
 - [bisect module](https://mathspp.com/blog/twitter-threads/bisect-module)
 - [Simplifying equality comparisons with or](https://mathspp.com/blog/twitter-threads/simplifying-equality-comparisons-with-or)
@@ -36,7 +37,6 @@ Follow me on Twitter [@mathsppblog][twitter] for 🐍 Python, 🧠 maths, and �
 - [Naming in list comprehensions](https://mathspp.com/blog/twitter-threads/naming-in-list-comprehensions)
 - [Formatting long list comprehensions](https://mathspp.com/blog/twitter-threads/formatting-long-list-comprehensions)
 - [How long should a list comprehension be?](https://mathspp.com/blog/twitter-threads/how-long-should-a-list-comprehension-be)
-- [Why are list comprehensions useful?](https://mathspp.com/blog/twitter-threads/why-are-list-comprehensions-useful)
 <!-- TWITTER-THREAD-LIST:END -->
 
 

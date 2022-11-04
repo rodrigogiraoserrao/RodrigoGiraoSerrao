@@ -14,13 +14,13 @@ Follow me on Twitter [@mathsppblog][twitter] for 🐍 Python, 🧠 maths, and �
 ## 📖 My most recent articles
 
 <!-- BLOG-POST-LIST:START -->
+- [TIL #054 – type hint Any](https://mathspp.com/blog/til/type-hint-any)
 - [TIL #053 – precision of Python floats](https://mathspp.com/blog/til/precision-of-python-floats)
 - [TIL #052 – deleting a file with pathlib](https://mathspp.com/blog/til/deleting-a-file-with-pathlib)
 - [TIL #051 – Heron&#39;s formula](https://mathspp.com/blog/til/herons-formula)
 - [TIL #050 – add a suggestion](https://mathspp.com/blog/til/add-a-suggestion)
 - [TIL #049 – edit multiple file locations in VS Code](https://mathspp.com/blog/til/edit-multiple-file-locations-in-vscode)
 - [How to create a Python package in 2022](https://mathspp.com/blog/how-to-create-a-python-package-in-2022)
-- [Smoosh all the things](https://mathspp.com/blog/smoosh-all-the-things)
 <!-- BLOG-POST-LIST:END -->
 
 

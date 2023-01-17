@@ -42,6 +42,8 @@ Follow me on Twitter [@mathsppblog][twitter] for 🐍 Python, 🧠 maths, and �
 
 ##  My GitHub activity stats
 
+<!-- Thanks to ofek! -->
+
 <img src="general_stats.svg" alt="GitHub Statistics" loading="lazy">
 
 <img src="language_stats.svg" alt="Top Languages" loading="lazy">

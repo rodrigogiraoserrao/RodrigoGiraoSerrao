@@ -1,8 +1,9 @@
-name: update-stats
+name: Update GitHub stats
 
 on:
   schedule:
   - cron: '0 4 * * *'
+  workflow_dispatch:
 
 concurrency:
   group: stats

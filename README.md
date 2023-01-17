@@ -42,7 +42,7 @@ Follow me on Twitter [@mathsppblog][twitter] for 🐍 Python, 🧠 maths, and �
 
 ##  My GitHub activity stats
 
-![](https://github-readme-stats.vercel.app/api?username=RodrigoGiraoSerrao&hide=stars&count_private=true&show_icons=true)
+![](https://github-readme-stats-ten-gilt.vercel.app/api?username=RodrigoGiraoSerrao&hide=stars&count_private=true&show_icons=true)
 
 <p align='center'><img src='https://visitor-badge.laobi.icu/badge?page_id=RodrigoGiraoSerrao'></p>
 

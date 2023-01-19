@@ -33,4 +33,4 @@ jobs:
 
     - name: Commit if stats have changed
       run: |
-        git diff || (git add --all && git commit -m "Update stats" && git push)
+        git add --all && git commit -m "Update stats" && git push

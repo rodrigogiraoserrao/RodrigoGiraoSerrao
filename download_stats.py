@@ -29,7 +29,7 @@ def download_file(path, *args, **kwargs):
 def download_general_stats():
     download_file(
         pathlib.Path("general_stats.svg"),
-        "https://github-readme-stats.vercel.app/api",
+        "https://github-readme-stats-ten-gilt.vercel.app/api",
         params={
             "username": "rodrigogiraoserrao",
             "theme": "dark",
@@ -43,7 +43,7 @@ def download_general_stats():
 def download_language_stats():
     download_file(
         pathlib.Path("language_stats.svg"),
-        "https://github-readme-stats.vercel.app/api/top-langs",
+        "https://github-readme-stats-ten-gilt.vercel.app/api/top-langs",
         params={
             "username": "rodrigogiraoserrao",
             "theme": "dark",

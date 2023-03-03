@@ -14,13 +14,13 @@ Follow me on Twitter [@mathsppblog][twitter] for 🐍 Python, 🧠 maths, and �
 ## 📖 My most recent articles
 
 <!-- BLOG-POST-LIST:START -->
+- [TIL #055 – xkcd plots](https://mathspp.com/blog/til/xkcd-plots)
 - [Your first recurrent neural network &lpar;RNN&rpar;](https://mathspp.com/blog/your-first-recurrent-neural-network)
 - [Module collections overview](https://mathspp.com/blog/module-collections-overview)
 - [Finding similar photos](https://mathspp.com/blog/finding-similar-photos)
 - [Problem #063 – arbitrarily many primes in arbitrarily big intervals](https://mathspp.com/blog/problems/arbitrarily-many-primes-in-arbitrarily-big-intervals)
 - [Implementing a case-insensitive dictionary](https://mathspp.com/blog/case-insensitive-dictionary)
 - [Finding and fixing over 10,000 bugs on GitHub](https://mathspp.com/blog/finding-and-fixing-over-10000-bugs-on-github)
-- [Connecting Python and Dyalog APL with sockets](https://mathspp.com/blog/connecting-python-and-dyalog-apl-with-sockets)
 <!-- BLOG-POST-LIST:END -->
 
 

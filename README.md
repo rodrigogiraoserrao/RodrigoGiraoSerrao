@@ -14,12 +14,12 @@ Follow me on Twitter [@mathsppblog][twitter] for 🐍 Python, 🧠 maths, and �
 ## 📖 My most recent articles
 
 <!-- BLOG-POST-LIST:START -->
+- [TIL #056 – invisible variables](https://mathspp.com/blog/til/invisible-variables)
 - [Converting RAW images into JPEG](https://mathspp.com/blog/converting-raw-images-into-jpeg)
 - [TIL #055 – xkcd plots](https://mathspp.com/blog/til/xkcd-plots)
 - [Your first recurrent neural network &lpar;RNN&rpar;](https://mathspp.com/blog/your-first-recurrent-neural-network)
 - [Module collections overview](https://mathspp.com/blog/module-collections-overview)
 - [Finding similar photos](https://mathspp.com/blog/finding-similar-photos)
-- [Implementing a case-insensitive dictionary](https://mathspp.com/blog/case-insensitive-dictionary)
 - [Problem #063 – arbitrarily many primes in arbitrarily big intervals](https://mathspp.com/blog/problems/arbitrarily-many-primes-in-arbitrarily-big-intervals)
 <!-- BLOG-POST-LIST:END -->
 

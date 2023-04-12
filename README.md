@@ -14,13 +14,13 @@ Follow me on Twitter [@mathsppblog][twitter] for 🐍 Python, 🧠 maths, and �
 ## 📖 My most recent articles
 
 <!-- BLOG-POST-LIST:START -->
+- [TIL #058 – do not cache generators](https://mathspp.com/blog/til/do-not-cache-generators)
+- [TIL #057 – optimising images for the web](https://mathspp.com/blog/til/optimising-images-for-the-web)
 - [Write your thesis in LaTeX](https://mathspp.com/blog/write-your-thesis-in-latex)
 - [Streaming data from Flask to HTMX using Server-Side Events &lpar;SSE&rpar;](https://mathspp.com/blog/streaming-data-from-flask-to-htmx-using-server-side-events)
 - [ChatGPT for quick prototyping](https://mathspp.com/blog/chatgpt-for-quick-prototyping)
 - [Textual tutorial – build a TODO app in Python](https://mathspp.com/blog/textual-tutorial-build-a-todo-app-in-python)
 - [VS Code shortcuts for efficient Python programmers](https://mathspp.com/blog/vscode-shortcuts-for-efficient-python-programmers)
-- [TIL #056 – invisible variables](https://mathspp.com/blog/til/invisible-variables)
-- [Converting RAW images into JPEG](https://mathspp.com/blog/converting-raw-images-into-jpeg)
 <!-- BLOG-POST-LIST:END -->
 
 

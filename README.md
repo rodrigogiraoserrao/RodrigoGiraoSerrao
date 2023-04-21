@@ -14,13 +14,13 @@ Follow me on Twitter [@mathsppblog][twitter] for 🐍 Python, 🧠 maths, and �
 ## 📖 My most recent articles
 
 <!-- BLOG-POST-LIST:START -->
+- [TIL #060 – how to rename a git branch](https://mathspp.com/blog/til/rename-a-git-branch)
 - [TIL #059 – skip list data structure](https://mathspp.com/blog/til/skip-list-data-structure)
 - [TIL #058 – do not cache generators](https://mathspp.com/blog/til/do-not-cache-generators)
 - [TIL #057 – optimising images for the web](https://mathspp.com/blog/til/optimising-images-for-the-web)
 - [Write your thesis in LaTeX](https://mathspp.com/blog/write-your-thesis-in-latex)
 - [Streaming data from Flask to HTMX using Server-Side Events &lpar;SSE&rpar;](https://mathspp.com/blog/streaming-data-from-flask-to-htmx-using-server-side-events)
 - [ChatGPT for quick prototyping](https://mathspp.com/blog/chatgpt-for-quick-prototyping)
-- [Textual tutorial – build a TODO app in Python](https://mathspp.com/blog/textual-tutorial-build-a-todo-app-in-python)
 <!-- BLOG-POST-LIST:END -->
 
 

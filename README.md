@@ -14,13 +14,13 @@ Follow me on Twitter [@mathsppblog][twitter] for 🐍 Python, 🧠 maths, and �
 ## 📖 My most recent articles
 
 <!-- BLOG-POST-LIST:START -->
+- [How to use modal screens in Textual](https://mathspp.com/blog/how-to-use-modal-screens-in-textual)
 - [TIL #062 – dbg! macro for debugging in Rust](https://mathspp.com/blog/til/dbg%21-macro-for-debugging-in-rust)
 - [Write a Python module in Rust](https://mathspp.com/blog/write-a-python-module-in-rust)
 - [TIL #061 – debugging other modules in VS Code](https://mathspp.com/blog/til/debugging-other-modules-in-vscode)
 - [TIL #060 – how to rename a git branch](https://mathspp.com/blog/til/rename-a-git-branch)
 - [TIL #059 – skip list data structure](https://mathspp.com/blog/til/skip-list-data-structure)
 - [TIL #058 – do not cache generators](https://mathspp.com/blog/til/do-not-cache-generators)
-- [TIL #057 – optimising images for the web](https://mathspp.com/blog/til/optimising-images-for-the-web)
 <!-- BLOG-POST-LIST:END -->
 
 

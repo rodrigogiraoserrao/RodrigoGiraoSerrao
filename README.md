@@ -14,13 +14,13 @@ Follow me on Twitter [@mathsppblog][twitter] for 🐍 Python, 🧠 maths, and �
 ## 📖 My most recent articles
 
 <!-- BLOG-POST-LIST:START -->
+- [TIL #066 – activate virtual environment with alias](https://mathspp.com/blog/til/activate-virtual-environment-with-alias)
 - [TIL #065 – VS Code sticky scroll](https://mathspp.com/blog/til/vscode-sticky-scroll)
 - [TIL #064 – open recursion](https://mathspp.com/blog/til/open-recursion)
 - [Describing Descriptors | Pydon&#39;t 🐍](https://mathspp.com/blog/pydonts/describing-descriptors)
 - [TIL #063 – skip tests on Microsoft Windows](https://mathspp.com/blog/til/skip-tests-on-microsoft-windows)
 - [Properties | Pydon&#39;t 🐍](https://mathspp.com/blog/pydonts/properties)
 - [How to use modal screens in Textual](https://mathspp.com/blog/how-to-use-modal-screens-in-textual)
-- [TIL #062 – dbg! macro for debugging in Rust](https://mathspp.com/blog/til/dbg%21-macro-for-debugging-in-rust)
 <!-- BLOG-POST-LIST:END -->
 
 

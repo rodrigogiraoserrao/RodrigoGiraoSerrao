@@ -14,13 +14,13 @@ Follow me on Twitter [@mathsppblog][twitter] for 🐍 Python, 🧠 maths, and �
 ## 📖 My most recent articles
 
 <!-- BLOG-POST-LIST:START -->
+- [TIL #070 – writing and running tests in Rust](https://mathspp.com/blog/til/writing-and-running-tests-in-rust)
 - [TIL #069 – generator membership testing](https://mathspp.com/blog/til/generator-membership-testing)
 - [Textual for beginners](https://mathspp.com/blog/textual-for-beginners)
 - [TIL #068 – nested git repositories](https://mathspp.com/blog/til/nested-git-repositories)
 - [TIL #067 – VS Code extension for custom syntax highlighting](https://mathspp.com/blog/til/vscode-extension-for-custom-syntax-highlighting)
 - [TIL #066 – activate virtual environment with alias](https://mathspp.com/blog/til/activate-virtual-environment-with-alias)
 - [TIL #065 – VS Code sticky scroll](https://mathspp.com/blog/til/vscode-sticky-scroll)
-- [TIL #064 – open recursion](https://mathspp.com/blog/til/open-recursion)
 <!-- BLOG-POST-LIST:END -->
 
 

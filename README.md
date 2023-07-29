@@ -14,13 +14,13 @@ Follow me on Twitter [@mathsppblog][twitter] for 🐍 Python, 🧠 maths, and �
 ## 📖 My most recent articles
 
 <!-- BLOG-POST-LIST:START -->
+- [TIL #074 – crazy Python indentation](https://mathspp.com/blog/til/crazy-python-indentation)
 - [TIL #073 – customise the REPL on start-up](https://mathspp.com/blog/til/customise-the-repl-on-start-up)
 - [TIL #072 – read bytecode from a .pyc file](https://mathspp.com/blog/til/read-bytecode-from-a-pyc-file)
 - [TIL #071 – generator method close](https://mathspp.com/blog/til/generator-method-close)
 - [TIL #070 – writing and running tests in Rust](https://mathspp.com/blog/til/writing-and-running-tests-in-rust)
 - [TIL #069 – generator membership testing](https://mathspp.com/blog/til/generator-membership-testing)
 - [Textual for beginners](https://mathspp.com/blog/textual-for-beginners)
-- [TIL #068 – nested git repositories](https://mathspp.com/blog/til/nested-git-repositories)
 <!-- BLOG-POST-LIST:END -->
 
 

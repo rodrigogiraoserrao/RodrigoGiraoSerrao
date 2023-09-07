@@ -14,13 +14,13 @@ Follow me on Twitter [@mathsppblog][twitter] for 🐍 Python, 🧠 maths, and �
 ## 📖 My most recent articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Animations from first principles](https://mathspp.com/blog/animations-from-first-principles-in-5-minutes)
 - [TIL #081 – find commits that affected a file](https://mathspp.com/blog/til/find-commits-that-affected-a-file)
 - [TIL #080 – how to draw a Bézier curve](https://mathspp.com/blog/til/how-to-draw-a-bezier-curve)
 - [TIL #079 – Textual app notifications](https://mathspp.com/blog/til/textual-app-notifications)
 - [TIL #078 – context variables](https://mathspp.com/blog/til/context-variables)
 - [Module pathlib overview](https://mathspp.com/blog/module-pathlib-overview)
 - [TIL #077 – piece table data structure](https://mathspp.com/blog/til/piece-table-data-structure)
-- [What learning APL taught me about Python](https://mathspp.com/blog/what-learning-apl-taught-me-about-python)
 <!-- BLOG-POST-LIST:END -->
 
 

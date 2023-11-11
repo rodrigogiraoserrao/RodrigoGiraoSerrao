@@ -14,13 +14,13 @@ Follow me on Twitter [@mathsppblog][twitter] for 🐍 Python, 🧠 maths, and �
 ## 📖 My most recent articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Single-line calculator](https://mathspp.com/blog/single-line-calculator)
 - [Building a Python compiler and interpreter – 07 if](https://mathspp.com/blog/building-a-python-compiler-and-interpreter-07-if)
 - [Building a Python compiler and interpreter – 06 variables](https://mathspp.com/blog/building-a-python-compiler-and-interpreter-06-variables)
 - [Building a Python compiler and interpreter – 05 statements](https://mathspp.com/blog/building-a-python-compiler-and-interpreter-05-statements)
 - [Building a Python compiler and interpreter – 04 arithmetic](https://mathspp.com/blog/building-a-python-compiler-and-interpreter-04-arithmetic)
 - [Building a Python compiler and interpreter – 03 visitor pattern](https://mathspp.com/blog/building-a-python-compiler-and-interpreter-03-visitor-pattern)
 - [Building a Python compiler and interpreter – 02 numbers](https://mathspp.com/blog/building-a-python-compiler-and-interpreter-02-numbers)
-- [TIL #086 – run custom code on Python start-up](https://mathspp.com/blog/til/run-custom-code-on-python-start-up)
 <!-- BLOG-POST-LIST:END -->
 
 

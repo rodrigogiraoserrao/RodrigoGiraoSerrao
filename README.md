@@ -14,13 +14,13 @@ Follow me on Twitter [@mathsppblog][twitter] for 🐍 Python, 🧠 maths, and �
 ## 📖 My most recent articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Why use enums?](https://mathspp.com/blog/why-use-enums)
 - [5 ways to flatten a list of lists](https://mathspp.com/blog/5-ways-to-flatten-a-list-of-lists)
 - [TIL #089 – delete merged git branches](https://mathspp.com/blog/til/delete-merged-git-branches)
 - [Secret Santa draw with Python](https://mathspp.com/blog/secret-santa-draw-with-python)
 - [In conversation: Rodrigo and Stephen discuss analogies when learning to code](https://mathspp.com/blog/in-conversation-rodrigo-and-stephen-on-analogies)
 - [Python Black Friday 2023](https://mathspp.com/blog/python-black-friday-2023)
 - [Building a Python compiler and interpreter – 08 Booleans](https://mathspp.com/blog/building-a-python-compiler-and-interpreter-08-booleans)
-- [TIL #088 – Python&#39;s soft keywords](https://mathspp.com/blog/til/pythons-soft-keywords)
 <!-- BLOG-POST-LIST:END -->
 
 

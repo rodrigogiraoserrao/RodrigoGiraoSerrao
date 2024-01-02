@@ -14,13 +14,13 @@ Follow me on Twitter [@mathsppblog][twitter] for 🐍 Python, 🧠 maths, and �
 ## 📖 My most recent articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Problem #064 – infinite mathematicians with hats](https://mathspp.com/blog/problems/infinite-mathematicians-with-hats)
 - [Learn pandas and matplotlib with Pokémon](https://mathspp.com/blog/learn-pandas-and-matplotlib-with-pokemon)
 - [Manipulate Boolean values with conditions](https://mathspp.com/blog/manipulate-boolean-values-with-conditions)
 - [divmod for unit conversions](https://mathspp.com/blog/divmod-for-unit-conversions)
 - [What is *args and how do you use it?](https://mathspp.com/blog/what-is-args-and-how-do-you-use-it)
 - [Building a Python compiler and interpreter – 09 short-circuiting](https://mathspp.com/blog/building-a-python-compiler-and-interpreter-09-short-circuiting)
 - [Why use enums?](https://mathspp.com/blog/why-use-enums)
-- [5 ways to flatten a list of lists](https://mathspp.com/blog/5-ways-to-flatten-a-list-of-lists)
 <!-- BLOG-POST-LIST:END -->
 
 

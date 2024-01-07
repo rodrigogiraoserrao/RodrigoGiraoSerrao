@@ -14,13 +14,13 @@ Follow me on Twitter [@mathsppblog][twitter] for 🐍 Python, 🧠 maths, and �
 ## 📖 My most recent articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Base conversion in Python](https://mathspp.com/blog/base-conversion-in-python)
 - [max is broken](https://mathspp.com/blog/max-is-broken)
 - [functools.partial](https://mathspp.com/blog/functools-partial)
 - [Problem #064 – infinite mathematicians with hats](https://mathspp.com/blog/problems/infinite-mathematicians-with-hats)
 - [Learn pandas and matplotlib with Pokémon](https://mathspp.com/blog/learn-pandas-and-matplotlib-with-pokemon)
 - [Manipulate Boolean values with conditions](https://mathspp.com/blog/manipulate-boolean-values-with-conditions)
 - [divmod for unit conversions](https://mathspp.com/blog/divmod-for-unit-conversions)
-- [What is *args and how do you use it?](https://mathspp.com/blog/what-is-args-and-how-do-you-use-it)
 <!-- BLOG-POST-LIST:END -->
 
 

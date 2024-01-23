@@ -54,7 +54,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 64.36853926210088;
+        stroke-dashoffset: 58.80754009215366;
       }
     }
   
@@ -122,13 +122,13 @@
         <circle class="rank-circle" cx="-10" cy="8" r="40" />
         <g class="rank-text">
           <text
-            x="0"
+            x="-4"
             y="0"
             alignment-baseline="central"
             dominant-baseline="central"
             text-anchor="middle"
           >
-            A++
+            S
           </text>
         </g>
       </g>
@@ -162,7 +162,7 @@
         x="150" 
         y="12.5" 
         data-testid="commits"
-      >8.1k</text>
+      >9k</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">

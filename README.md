@@ -14,13 +14,13 @@ Follow me on Twitter [@mathsppblog][twitter] for 🐍 Python, 🧠 maths, and �
 ## 📖 My most recent articles
 
 <!-- BLOG-POST-LIST:START -->
+- [N queens problem](https://mathspp.com/blog/n-queens-problem)
 - [TIL #090 – patching module globals with pytest](https://mathspp.com/blog/til/patching-module-globals-with-pytest)
 - [Python deque tutorial](https://mathspp.com/blog/python-deque-tutorial)
 - [Problem #065 – clock synchronisation](https://mathspp.com/blog/problems/clock-synchronisation)
 - [Dynamic string replacements with regex](https://mathspp.com/blog/dynamic-string-replacements-with-regex)
 - [Base conversion in Python](https://mathspp.com/blog/base-conversion-in-python)
 - [max is broken](https://mathspp.com/blog/max-is-broken)
-- [functools.partial](https://mathspp.com/blog/functools-partial)
 <!-- BLOG-POST-LIST:END -->
 
 

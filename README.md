@@ -14,13 +14,13 @@ Follow me on Twitter [@mathsppblog][twitter] for 🐍 Python, 🧠 maths, and �
 ## 📖 My most recent articles
 
 <!-- BLOG-POST-LIST:START -->
+- [503 days working full-time on FOSS: lessons learned](https://mathspp.com/blog/503-days-working-full-time-on-foss-lessons-learned)
 - [Longest unique substring](https://mathspp.com/blog/longest-unique-substring)
 - [TIL #093 – operator.methodcaller](https://mathspp.com/blog/til/operator.methodcaller)
 - [TIL #092 – dunder method __init_subclass__](https://mathspp.com/blog/til/dunder-method-__init_subclass__)
 - [TIL #091 – issue user warnings](https://mathspp.com/blog/til/issue-user-warnings)
 - [Deducing physics formulas with genetic algorithms](https://mathspp.com/blog/deducing-physics-formulas-with-genetic-algorithms)
 - [Biggest square](https://mathspp.com/blog/biggest-square)
-- [N queens problem](https://mathspp.com/blog/n-queens-problem)
 <!-- BLOG-POST-LIST:END -->
 
 

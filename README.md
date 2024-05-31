@@ -14,13 +14,13 @@ Follow me on Twitter [@mathsppblog][twitter] for 🐍 Python, 🧠 maths, and �
 ## 📖 My most recent articles
 
 <!-- BLOG-POST-LIST:START -->
+- [TIL #099 – order values of dictionary by iterable of keys with operator.itemgetter](https://mathspp.com/blog/til/order-values-of-dictionary-by-iterable-of-keys-with-operator.itemgetter)
 - [TIL #098 – Git alias for quick commit &amp; push](https://mathspp.com/blog/til/git-alias-for-quick-commit-and-push)
 - [ASCII rain scroll art](https://mathspp.com/blog/ascii-rain-scroll-art)
 - [TIL #097 – get terminal size](https://mathspp.com/blog/til/get-terminal-size)
 - [TIL #096 – automatically push code changes during live coding](https://mathspp.com/blog/til/automatically-push-code-changes-during-live-coding)
 - [Sets as dictionaries with no values](https://mathspp.com/blog/sets-as-dictionaries-with-no-values)
 - [TIL #095 – better test parametrisation in pytest](https://mathspp.com/blog/til/better-test-parametrisation-in-pytest)
-- [TIL #094 – pytest.raises: parameter match](https://mathspp.com/blog/til/pytest.raises-parameter-match)
 <!-- BLOG-POST-LIST:END -->
 
 

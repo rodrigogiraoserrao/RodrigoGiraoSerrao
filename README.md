@@ -14,13 +14,13 @@ Follow me on Twitter [@mathsppblog][twitter] for 🐍 Python, 🧠 maths, and �
 ## 📖 My most recent articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Customising object creation with __new__](https://mathspp.com/blog/customising-object-creation-with-__new__)
 - [Case-insensitive string class](https://mathspp.com/blog/case-insensitive-string-class)
 - [Module itertools overview](https://mathspp.com/blog/module-itertools-overview)
 - [TIL #103 – debugging the new Python REPL with trace and PYREPL_TRACE.](https://mathspp.com/blog/til/debugging-the-new-python-repl-with-trace-and-pyrepl-trace)
 - [TIL #102 – ctrl+left and ctrl+right not working in the Python REPL on MacOS](https://mathspp.com/blog/til/ctrl-left-and-ctrl-right-not-working-in-the-python-repl-on-macos)
 - [Animating a rotating spiral](https://mathspp.com/blog/animating-a-rotating-spiral)
 - [TIL #101 – difference between __getattr__ and __getattribute__](https://mathspp.com/blog/til/difference-between-__getattr__-and-__getattribute__)
-- [TIL #100 – Making an iterator out of a function](https://mathspp.com/blog/til/making-an-iterator-out-of-a-function)
 <!-- BLOG-POST-LIST:END -->
 
 

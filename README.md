@@ -14,13 +14,13 @@ Follow me on Twitter [@mathsppblog][twitter] for 🐍 Python, 🧠 maths, and �
 ## 📖 My most recent articles
 
 <!-- BLOG-POST-LIST:START -->
+- [TIL #104 – nested makefiles](https://mathspp.com/blog/til/nested-makefiles)
 - [mutability and random.shuffle](https://mathspp.com/blog/mutability-and-random-shuffle)
 - [Problem #066 – regex crossword](https://mathspp.com/blog/problems/regex-crossword)
 - [Automatic site updates with cog and pre-commit](https://mathspp.com/blog/automatic-site-updates-with-cog-and-pre-commit)
 - [Customising object creation with __new__](https://mathspp.com/blog/customising-object-creation-with-__new__)
 - [Case-insensitive string class](https://mathspp.com/blog/case-insensitive-string-class)
 - [Module itertools overview](https://mathspp.com/blog/module-itertools-overview)
-- [TIL #103 – debugging the new Python REPL with trace and PYREPL_TRACE.](https://mathspp.com/blog/til/debugging-the-new-python-repl-with-trace-and-pyrepl-trace)
 <!-- BLOG-POST-LIST:END -->
 
 

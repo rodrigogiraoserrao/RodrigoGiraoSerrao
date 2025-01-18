@@ -14,13 +14,13 @@ Follow me on Twitter [@mathsppblog][twitter] for 🐍 Python, 🧠 maths, and �
 ## 📖 My most recent articles
 
 <!-- BLOG-POST-LIST:START -->
+- [TIL #111 – Interrupting scripts without tracebacks](https://mathspp.com/blog/til/interrupting-scripts-without-tracebacks)
 - [TIL #110 – Hash of -1 is -2](https://mathspp.com/blog/til/hash-of-1-is-2)
 - [Animating a tree fractal](https://mathspp.com/blog/animating-a-tree-fractal)
 - [TIL #109 – Unpacking kwargs with custom objects](https://mathspp.com/blog/til/unpacking-kwargs-with-custom-objects)
 - [Reverse-engineering the “Chronospatial Computer”](https://mathspp.com/blog/reverse-engineering-the-chronospatial-computer)
 - [TIL #108 – Date sequences in Polars](https://mathspp.com/blog/til/date-sequences-in-polars)
 - [Solving “Bridge Repair” in 4ms with Python](https://mathspp.com/blog/solving-bridge-repair-in-4ms-with-python)
-- [TIL #107 – Automatically activating virtual environments](https://mathspp.com/blog/til/automatically-activating-virtual-environments)
 <!-- BLOG-POST-LIST:END -->
 
 

@@ -14,13 +14,13 @@ Follow me on Twitter [@mathsppblog][twitter] for 🐍 Python, 🧠 maths, and �
 ## 📖 My most recent articles
 
 <!-- BLOG-POST-LIST:START -->
+- [TIL #114 – Implicit casting in dataframe concatenation](https://mathspp.com/blog/til/implicit-casting-in-dataframe-concatenation)
 - [TIL #113 – Standalone executable Python scripts with uv](https://mathspp.com/blog/til/standalone-executable-python-scripts-with-uv)
 - [Using an LLM to write a countdown timer](https://mathspp.com/blog/using-an-llm-to-write-a-countdown-timer)
 - [TIL #112 – re.Match.groupdict](https://mathspp.com/blog/til/re-match-groupdict)
 - [functools.cmp_to_key](https://mathspp.com/blog/functools-cmp_to_key)
 - [Decorators | Pydon&#39;t 🐍](https://mathspp.com/blog/pydonts/decorators)
 - [TIL #111 – Interrupting scripts without tracebacks](https://mathspp.com/blog/til/interrupting-scripts-without-tracebacks)
-- [TIL #110 – Hash of -1 is -2](https://mathspp.com/blog/til/hash-of-1-is-2)
 <!-- BLOG-POST-LIST:END -->
 
 

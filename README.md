@@ -14,7 +14,7 @@ Follow me on Twitter [@mathsppblog][twitter] for 🐍 Python, 🧠 maths, and �
 ## 📖 My most recent articles
 
 <!-- BLOG-POST-LIST:START -->
-- [Ignoring exceptions with `contextlib.suppress`](https://mathspp.com/blog/ignoring-exceptions-with-contextlib-suppress)
+- [Ignoring exceptions with contextlib.suppress](https://mathspp.com/blog/ignoring-exceptions-with-contextlib-suppress)
 - [TIL #116 – Run commands inside Jupyter notebooks](https://mathspp.com/blog/til/run-commands-inside-jupyter-notebooks)
 - [TIL #115 – Nested Easter eggs](https://mathspp.com/blog/til/nested-easter-eggs)
 - [TIL #114 – Implicit casting in dataframe concatenation](https://mathspp.com/blog/til/implicit-casting-in-dataframe-concatenation)

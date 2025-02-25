@@ -14,13 +14,13 @@ Follow me on Twitter [@mathsppblog][twitter] for 🐍 Python, 🧠 maths, and �
 ## 📖 My most recent articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Beating LinkedIn “Queens” with Python](https://mathspp.com/blog/beating-linkedin-queens-with-python)
 - [Building a Python compiler and interpreter – 10 elif and else](https://mathspp.com/blog/building-a-python-compiler-and-interpreter-10-elif-and-else)
 - [Using uv to build and install Python CLI apps](https://mathspp.com/blog/using-uv-to-build-and-install-python-cli-apps)
 - [Ignoring exceptions with contextlib.suppress](https://mathspp.com/blog/ignoring-exceptions-with-contextlib-suppress)
 - [TIL #116 – Run commands inside Jupyter notebooks](https://mathspp.com/blog/til/run-commands-inside-jupyter-notebooks)
 - [TIL #115 – Nested Easter eggs](https://mathspp.com/blog/til/nested-easter-eggs)
 - [TIL #114 – Implicit casting in dataframe concatenation](https://mathspp.com/blog/til/implicit-casting-in-dataframe-concatenation)
-- [TIL #113 – Standalone executable Python scripts with uv](https://mathspp.com/blog/til/standalone-executable-python-scripts-with-uv)
 <!-- BLOG-POST-LIST:END -->
 
 

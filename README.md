@@ -14,13 +14,13 @@ Follow me on Twitter [@mathsppblog][twitter] for 🐍 Python, 🧠 maths, and �
 ## 📖 My most recent articles
 
 <!-- BLOG-POST-LIST:START -->
+- [TIL #122 – CLI tools with extra dependencies](https://mathspp.com/blog/til/cli-tools-with-extra-dependencies)
 - [Module enum overview](https://mathspp.com/blog/module-enum-overview)
 - [TIL #121 – uv escape hatch](https://mathspp.com/blog/til/use-pip-directly-from-a-uv-virtual-environment)
 - [TIL #120 – Circle vs rectangle collision detection](https://mathspp.com/blog/til/circle-vs-rectangle-collision-detection)
 - [Binary search as a bidirectional generator](https://mathspp.com/blog/binary-search-as-a-bidirectional-generator)
 - [JavaScript 2D scrolling game tutorial](https://mathspp.com/blog/javascript-2d-scrolling-game-tutorial)
 - [TIL #119 – Co-authored commits](https://mathspp.com/blog/til/coauthored-commits)
-- [TIL #118 – git checkout -](https://mathspp.com/blog/til/git-checkout)
 <!-- BLOG-POST-LIST:END -->
 
 

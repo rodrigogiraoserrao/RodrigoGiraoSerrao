@@ -7,7 +7,7 @@ Follow me on Twitter [@mathsppblog][twitter] for 🐍 Python, 🧠 maths, and �
 
 - 🔭 I’m currently working on my personal project: [mathspp.com](https://mathspp.com)
 - 💬 Ask me about mathematics, programming and bad jokes.
-- 📫 You can find my contacts [here](https://mathspp.com/about#contacts).
+- 📫 You can find my contacts [here](https://mathspp.com/contact-me).
 - 😄 Pronouns: he/him/his
 
 

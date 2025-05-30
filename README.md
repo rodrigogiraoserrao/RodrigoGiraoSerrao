@@ -15,12 +15,12 @@ Follow me on Twitter [@mathsppblog][twitter] for 🐍 Python, 🧠 maths, and �
 
 <!-- BLOG-POST-LIST:START -->
 - [Dipping my toes in metaprogramming](https://mathspp.com/blog/dipping-my-toes-in-metaprogramming)
+- [Python quiz: PyCon Italia 2025 edition](https://mathspp.com/blog/python-quiz-pycon-italia-2025-edition)
 - [Who wants to be a millionaire?](https://mathspp.com/blog/who-wants-to-be-a-millionaire)
 - [TIL #124 – Thousands separators](https://mathspp.com/blog/til/thousands-separators)
 - [Personal highlights of PyCon US 2025](https://mathspp.com/blog/personal-highlights-of-pycon-us-2025)
 - [Automatically pushing code changes during live coding with uv](https://mathspp.com/blog/automatically-pushing-code-changes-during-live-coding-with-uv)
 - [TIL #123 – The appearing built-in](https://mathspp.com/blog/til/the-appearing-builtin)
-- [TIL #122 – CLI tools with extra dependencies](https://mathspp.com/blog/til/cli-tools-with-extra-dependencies)
 <!-- BLOG-POST-LIST:END -->
 
 

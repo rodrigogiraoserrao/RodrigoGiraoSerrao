@@ -14,13 +14,13 @@ Follow me on Twitter [@mathsppblog][twitter] for 🐍 Python, 🧠 maths, and �
 ## 📖 My most recent articles
 
 <!-- BLOG-POST-LIST:START -->
+- [TIL #127 – Dynamically changing the type](https://mathspp.com/blog/til/dynamically-changing-the-type)
+- [TIL #126 – Hash of infinity](https://mathspp.com/blog/til/hash-of-infinity)
 - [Python quiz: EuroPython 2025 edition](https://mathspp.com/blog/python-quiz-europython-2025-edition)
 - [TIL #125 – Images in docstrings](https://mathspp.com/blog/til/images-in-docstrings)
 - [Regex in real life](https://mathspp.com/blog/regex-in-real-life)
 - [Personal highlights of PyCon Italy 2025](https://mathspp.com/blog/personal-highlights-of-pycon-italy-2025)
 - [Python quiz: PyCon Italia 2025 edition](https://mathspp.com/blog/python-quiz-pycon-italia-2025-edition)
-- [Dipping my toes in metaprogramming](https://mathspp.com/blog/dipping-my-toes-in-metaprogramming)
-- [Who wants to be a millionaire?](https://mathspp.com/blog/who-wants-to-be-a-millionaire)
 <!-- BLOG-POST-LIST:END -->
 
 

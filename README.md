@@ -14,13 +14,13 @@ Follow me on Twitter [@mathsppblog][twitter] for 🐍 Python, 🧠 maths, and �
 ## 📖 My most recent articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Counterintuitive coin flips](https://mathspp.com/blog/counterintuitive-coin-flips)
 - [Personal highlights of EuroPython 2025](https://mathspp.com/blog/personal-highlights-of-europython-2025)
 - [PyCon Portugal 2025 programme mafia](https://mathspp.com/blog/pycon-portugal-2025-programme-mafia)
 - [TIL #128 – Matching prefixes and suffixes with regex](https://mathspp.com/blog/til/matching-prefixes-and-suffixes-with-regex)
 - [TIL #127 – Dynamically changing the type](https://mathspp.com/blog/til/dynamically-changing-the-type)
 - [TIL #126 – Hash of infinity](https://mathspp.com/blog/til/hash-of-infinity)
 - [Python quiz: EuroPython 2025 edition](https://mathspp.com/blog/python-quiz-europython-2025-edition)
-- [TIL #125 – Images in docstrings](https://mathspp.com/blog/til/images-in-docstrings)
 <!-- BLOG-POST-LIST:END -->
 
 

@@ -14,13 +14,13 @@ Follow me on Twitter [@mathsppblog][twitter] for 🐍 Python, 🧠 maths, and �
 ## 📖 My most recent articles
 
 <!-- BLOG-POST-LIST:START -->
+- [`functools.Placeholder`](https://mathspp.com/blog/how-to-use-functools-placeholder)
 - [TIL #130 – Format Python code directly with uv](https://mathspp.com/blog/til/format-python-code-directly-with-uv)
 - [TIL #129 – Custom value in dict.fromkeys](https://mathspp.com/blog/til/custom-value-in-dictfromkeys)
 - [Counterintuitive coin flips](https://mathspp.com/blog/counterintuitive-coin-flips)
 - [Personal highlights of EuroPython 2025](https://mathspp.com/blog/personal-highlights-of-europython-2025)
 - [PyCon Portugal 2025 programme mafia](https://mathspp.com/blog/pycon-portugal-2025-programme-mafia)
 - [TIL #128 – Matching prefixes and suffixes with regex](https://mathspp.com/blog/til/matching-prefixes-and-suffixes-with-regex)
-- [TIL #127 – Dynamically changing the type](https://mathspp.com/blog/til/dynamically-changing-the-type)
 <!-- BLOG-POST-LIST:END -->
 
 

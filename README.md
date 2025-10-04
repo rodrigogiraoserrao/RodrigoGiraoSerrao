@@ -14,13 +14,13 @@ Follow me on Twitter [@mathsppblog][twitter] for 🐍 Python, 🧠 maths, and �
 ## 📖 My most recent articles
 
 <!-- BLOG-POST-LIST:START -->
+- [TIL #134 – = alignment in string formatting](https://mathspp.com/blog/til/-alignment-in-string-formatting)
 - [TIL #133 – Shoelace formula](https://mathspp.com/blog/til/shoelace-formula)
 - [TIL #132 – Double factorial](https://mathspp.com/blog/til/double-factorial)
 - [uv cheatsheet](https://mathspp.com/blog/uv-cheatsheet)
 - [TIL #131 – Change casing in search &amp; replace](https://mathspp.com/blog/til/change-casing-in-search-and-replace)
 - [Accepting the PSF Community Service Award](https://mathspp.com/blog/accepting-the-psf-community-service-award)
 - [functools.Placeholder](https://mathspp.com/blog/how-to-use-functools-placeholder)
-- [TIL #130 – Format Python code directly with uv](https://mathspp.com/blog/til/format-python-code-directly-with-uv)
 <!-- BLOG-POST-LIST:END -->
 
 

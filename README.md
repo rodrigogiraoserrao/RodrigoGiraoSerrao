@@ -14,13 +14,13 @@ Follow me on Twitter [@mathsppblog][twitter] for 🐍 Python, 🧠 maths, and �
 ## 📖 My most recent articles
 
 <!-- BLOG-POST-LIST:START -->
+- [A generator, duck typing, and a branchless conditional walk into a bar](https://mathspp.com/blog/a-generator-duck-typing-and-a-branchless-conditional-walk-into-a-bar)
 - [TIL #135 – Build the Python documentation](https://mathspp.com/blog/til/build-the-python-documentation)
 - [Functions: a complete reference | Pydon&#39;t 🐍](https://mathspp.com/blog/pydonts/functions-a-complete-reference)
 - [TIL #134 – = alignment in string formatting](https://mathspp.com/blog/til/-alignment-in-string-formatting)
 - [TIL #133 – Shoelace formula](https://mathspp.com/blog/til/shoelace-formula)
 - [TIL #132 – Double factorial](https://mathspp.com/blog/til/double-factorial)
 - [uv cheatsheet](https://mathspp.com/blog/uv-cheatsheet)
-- [TIL #131 – Change casing in search &amp; replace](https://mathspp.com/blog/til/change-casing-in-search-and-replace)
 <!-- BLOG-POST-LIST:END -->
 
 

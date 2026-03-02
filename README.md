@@ -14,13 +14,13 @@ Follow me on Twitter [@mathsppblog][twitter] for 🐍 Python, 🧠 maths, and �
 ## 📖 My most recent articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Remove extra spaces](https://mathspp.com/blog/remove-extra-spaces)
 - [Recursive structural pattern matching](https://mathspp.com/blog/recursive-structural-pattern-matching)
 - [TIL #138 – Custom directives in Jupyter Book](https://mathspp.com/blog/til/custom-directives-in-jupyter-book)
 - [Generalising itertools.pairwise](https://mathspp.com/blog/generalising-itertools-pairwise)
 - [TIL #137 – Inline SVGs in Jupyter notebooks](https://mathspp.com/blog/til/inline-svgs-in-jupyter-notebooks)
 - [Floodfill algorithm in Python](https://mathspp.com/blog/floodfill-algorithm-in-python)
 - [TIL #136 – Publish an EPUB book with Jupyter Book](https://mathspp.com/blog/til/publish-an-epub-book-with-jupyter-book)
-- [Module compression overview](https://mathspp.com/blog/module-compression-overview)
 <!-- BLOG-POST-LIST:END -->
 
 

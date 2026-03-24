@@ -14,13 +14,13 @@ Follow me on Twitter [@mathsppblog][twitter] for 🐍 Python, 🧠 maths, and �
 ## 📖 My most recent articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Ask the LLM to write code for it](https://mathspp.com/blog/ask-the-llm-to-write-code-for-it)
 - [Cyclic trapezoid animation](https://mathspp.com/blog/cyclic-trapezoid-animation)
 - [TIL #142 – Cyclic quadrilateral](https://mathspp.com/blog/til/cyclic-quadrilateral)
 - [TIL #141 – Inspect a lazy import](https://mathspp.com/blog/til/inspect-a-lazy-import)
 - [TIL #140 – Install Jupyter with uv](https://mathspp.com/blog/til/install-jupyter-with-uv)
 - [TIL #139 – Multiline input in the REPL](https://mathspp.com/blog/til/multiline-input-in-the-repl)
 - [Remove extra spaces](https://mathspp.com/blog/remove-extra-spaces)
-- [Recursive structural pattern matching](https://mathspp.com/blog/recursive-structural-pattern-matching)
 <!-- BLOG-POST-LIST:END -->
 
 

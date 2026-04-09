@@ -14,13 +14,13 @@ Follow me on Twitter [@mathsppblog][twitter] for 🐍 Python, 🧠 maths, and �
 ## 📖 My most recent articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Who wants to be a millionaire: iterables edition](https://mathspp.com/blog/who-wants-to-be-a-millionaire-iterables-edition)
 - [uv skills for coding agents](https://mathspp.com/blog/uv-skills)
 - [Indexable iterables](https://mathspp.com/blog/indexable-iterables)
 - [Ask the LLM to write code for it](https://mathspp.com/blog/ask-the-llm-to-write-code-for-it)
 - [Cyclic trapezoid animation](https://mathspp.com/blog/cyclic-trapezoid-animation)
 - [TIL #142 – Cyclic quadrilateral](https://mathspp.com/blog/til/cyclic-quadrilateral)
 - [TIL #141 – Inspect a lazy import](https://mathspp.com/blog/til/inspect-a-lazy-import)
-- [TIL #140 – Install Jupyter with uv](https://mathspp.com/blog/til/install-jupyter-with-uv)
 <!-- BLOG-POST-LIST:END -->
 
 

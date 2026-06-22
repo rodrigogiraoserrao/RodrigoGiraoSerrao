@@ -14,13 +14,13 @@ Follow me on Twitter [@mathsppblog][twitter] for 🐍 Python, 🧠 maths, and �
 ## 📖 My most recent articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Write a coding agent from first principles](https://mathspp.com/blog/write-a-coding-agent-from-first-principles)
 - [TIL #145 – collections.deque is implemented in blocks](https://mathspp.com/blog/til/collections-deque-is-implemented-in-blocks)
 - [TIL #144 – Sentinel built-in](https://mathspp.com/blog/til/sentinel-builtin)
 - [TIL #143 – Resolve a lazy import manually](https://mathspp.com/blog/til/resolve-a-lazy-import-manually)
 - [Personal highlights of PyCon Lithuania 2026](https://mathspp.com/blog/personal-highlights-of-pycon-lithuania-2026)
 - [Who wants to be a millionaire: iterables edition](https://mathspp.com/blog/who-wants-to-be-a-millionaire-iterables-edition)
 - [uv skills for coding agents](https://mathspp.com/blog/uv-skills)
-- [Indexable iterables](https://mathspp.com/blog/indexable-iterables)
 <!-- BLOG-POST-LIST:END -->
 
 

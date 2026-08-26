@@ -14,13 +14,13 @@ Follow me on Twitter [@mathsppblog][twitter] for 🐍 Python, 🧠 maths, and �
 ## 📖 My most recent articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Why OOP exists](https://mathspp.com/blog/why-oop-exists)
 - [Python quiz: EuroPython 2026 edition](https://mathspp.com/blog/python-quiz-europython-2026-edition)
 - [itertools cheatsheet](https://mathspp.com/blog/itertools-cheatsheet)
 - [Write a coding agent from first principles: better tools](https://mathspp.com/blog/write-a-coding-agent-from-first-principles-better-tools)
 - [Write a coding agent from first principles](https://mathspp.com/blog/write-a-coding-agent-from-first-principles)
 - [TIL #145 – collections.deque is implemented in blocks](https://mathspp.com/blog/til/collections-deque-is-implemented-in-blocks)
 - [TIL #144 – Sentinel built-in](https://mathspp.com/blog/til/sentinel-builtin)
-- [TIL #143 – Resolve a lazy import manually](https://mathspp.com/blog/til/resolve-a-lazy-import-manually)
 <!-- BLOG-POST-LIST:END -->
 
 

@@ -14,13 +14,13 @@ Follow me on Twitter [@mathsppblog][twitter] for 🐍 Python, 🧠 maths, and �
 ## 📖 My most recent articles
 
 <!-- BLOG-POST-LIST:START -->
+- [The 5 most exciting new features of Python 3.15](https://mathspp.com/blog/the-5-most-exciting-new-features-of-python-315)
 - [TIL #146 – Using maturin through uv](https://mathspp.com/blog/til/using-maturin-through-uv)
 - [Why OOP exists](https://mathspp.com/blog/why-oop-exists)
 - [Python quiz: EuroPython 2026 edition](https://mathspp.com/blog/python-quiz-europython-2026-edition)
 - [itertools cheatsheet](https://mathspp.com/blog/itertools-cheatsheet)
 - [Write a coding agent from first principles: better tools](https://mathspp.com/blog/write-a-coding-agent-from-first-principles-better-tools)
 - [Write a coding agent from first principles](https://mathspp.com/blog/write-a-coding-agent-from-first-principles)
-- [TIL #145 – collections.deque is implemented in blocks](https://mathspp.com/blog/til/collections-deque-is-implemented-in-blocks)
 <!-- BLOG-POST-LIST:END -->
 
 

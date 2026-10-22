@@ -14,13 +14,13 @@ Follow me on Twitter [@mathsppblog][twitter] for 🐍 Python, 🧠 maths, and �
 ## 📖 My most recent articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Tachyon: sampling profiling in Python](https://mathspp.com/blog/tachyon-sampling-profiling-in-python)
 - [DX improvements in Python 3.15](https://mathspp.com/blog/dx-improvements-in-python-315)
 - [Startup configuration files](https://mathspp.com/blog/startup-configuration-files)
 - [Unpacking inside comprehensions](https://mathspp.com/blog/unpacking-inside-comprehensions)
 - [frozendict built-in](https://mathspp.com/blog/pydonts/frozendict-builtin)
 - [sentinel built-in](https://mathspp.com/blog/pydonts/sentinel-builtin)
 - [Explicit lazy imports](https://mathspp.com/blog/explicit-lazy-imports)
-- [The 5 most exciting new features of Python 3.15](https://mathspp.com/blog/the-5-most-exciting-new-features-of-python-315)
 <!-- BLOG-POST-LIST:END -->
 
 

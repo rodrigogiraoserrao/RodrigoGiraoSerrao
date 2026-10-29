@@ -14,13 +14,13 @@ Follow me on Twitter [@mathsppblog][twitter] for 🐍 Python, 🧠 maths, and �
 ## 📖 My most recent articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Thread-safe iterators](https://mathspp.com/blog/threadsafe-iterators)
 - [4 upgrades to the Python standard library in 3.15](https://mathspp.com/blog/4-upgrades-to-the-python-standard-library-in-315)
 - [Typing improvements in Python 3.15](https://mathspp.com/blog/typing-improvements-in-python-315)
 - [TypedDict with extra items](https://mathspp.com/blog/typeddict-with-extra-items)
 - [Module profiling overview](https://mathspp.com/blog/module-profiling-overview)
 - [Tachyon: sampling profiling in Python](https://mathspp.com/blog/tachyon-sampling-profiling-in-python)
 - [DX improvements in Python 3.15](https://mathspp.com/blog/dx-improvements-in-python-315)
-- [Startup configuration files](https://mathspp.com/blog/startup-configuration-files)
 <!-- BLOG-POST-LIST:END -->
 
 
